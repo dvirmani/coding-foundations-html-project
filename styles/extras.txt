@@ -1,0 +1,18 @@
+<!-- <div class="dropdown-menu">
+                            <a href="#">Spark</a>
+                        </div>
+                        <div class="icon">
+                            <a href="#"><i class="fa-solid fa-chevron-down"></i></a>
+                        </div> -->
+/* .navigation-wrapper > .center-column > .links-wrapper > .dropdown-menu-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-wrapper > .center-column > .links-wrapper > .dropdown-menu-wrapper a{
+    color: #B2B3AC;
+    font-weight: 200;
+}
+.navigation-wrapper > .center-column > .links-wrapper >.dropdown-menu-wrapper> .icon{
+    margin-left: 10px;
+} */
